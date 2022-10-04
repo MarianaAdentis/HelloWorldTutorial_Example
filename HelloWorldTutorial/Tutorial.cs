@@ -202,3 +202,5 @@ void Print(int? num)
 }
 
 Print(null);
+
+Console.WriteLine("yoyoyoyoyo");
