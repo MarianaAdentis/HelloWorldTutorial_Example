@@ -8,6 +8,10 @@ Console.WriteLine(testVar);
 
 double a = 3141.6;
 
+
+Console.WriteLine("YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
+
+
 //int b = a; não funciona, missing a cast
 
 //EXPLÍCITO
