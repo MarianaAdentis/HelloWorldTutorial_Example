@@ -10,6 +10,7 @@ double a = 3141.6;
 
 
 Console.WriteLine("YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
+Console.WriteLine("JONI");
 
 
 //int b = a; não funciona, missing a cast
